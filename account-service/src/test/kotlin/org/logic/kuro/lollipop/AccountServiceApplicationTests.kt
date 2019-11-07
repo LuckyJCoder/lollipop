@@ -1,4 +1,4 @@
-package org.logic.kuro.lollipop.accountservice
+package org.logic.kuro.lollipop
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

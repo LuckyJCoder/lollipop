@@ -1,4 +1,4 @@
-package org.logic.kuro.lollipop.accountservice
+package org.logic.kuro.lollipop
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
