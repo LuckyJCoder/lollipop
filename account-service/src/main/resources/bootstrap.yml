@@ -1,5 +1,5 @@
 server:
-  port: 9527
+  port: 11020
 spring:
   profiles:
     active: dev
